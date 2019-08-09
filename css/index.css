@@ -180,8 +180,8 @@ pre {
   font-weight: 700;
 }
 .tmpl-home img {
-  object-fit: contain;
   width: 97vw;
+  height: 27em;
 }
 
 /* Tags */
