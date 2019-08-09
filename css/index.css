@@ -25,7 +25,7 @@ p:last-child {
 }
 p,
 .tmpl-post li,
-img {
+.tmpl-post img {
   max-width: 37.5em; /* 600px /16 */
 }
 p,
@@ -179,7 +179,10 @@ pre {
   font-size: 1.1875em; /* 19px /16 */
   font-weight: 700;
 }
-
+.tmpl-home img {
+  object-fit: contain;
+  width: 97vw;
+}
 
 /* Tags */
 .tag {
@@ -189,7 +192,7 @@ pre {
   font-size: 0.625em; /* 10px /16 */
   padding: 2px 4px;
   margin-left: 0.8em; /* 8px /10 */
-  background-color: var(--red);
+  background-color: var(--orange);
   color: var(--white);
   border-radius: 0.25em; /* 3px /12 */
   text-decoration: none;

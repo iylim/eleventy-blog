@@ -15,7 +15,7 @@ This week during project work time we researched website design ideas. I set up 
 Continued working on Wes Bos Node course. 
 
 ### Client Visit
-Michael Santiago visited us. He provided helpful feedback on some workplace experiences from a C-suite perspective. 
+Michael Santiago from Beckman Coulter visited us. He provided helpful feedback on some workplace experiences from a C-suite perspective. 
 
 ![alt text](https://i.imgur.com/nQkdZBN.jpg "Michael Santiago")
 
