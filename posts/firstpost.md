@@ -1,26 +1,19 @@
 ---
 title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
-date: 2018-05-01
+description: This is a post on week 7.
+date: 2019-08-09
 tags:
-  - another-tag
+  - first
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+## Project Work ~ Flow
+This week during project work time we researched website design ideas. I set up the server backbone and started implementing weather API using Dark Sky. We wanted to take this sprint to work on planning more than actually starting to code. We wanted to try and implement our main feature of recently closed tabs. We have not really started coding so we do not our velocity. Our biggest challenge with the product is to balance work and leisure and distinguishing the two modes.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+## Self Learning
+Continued working on Wes Bos Node course. 
 
-## Section Header
+## Client Visit
+Michael Santiago visited us. 
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+![alt text](https://i.imgur.com/nQkdZBN.jpg "Michael Santiago")
 
-``` text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
-
-// Test with a line break above this line.
-console.log('Test');
-```
