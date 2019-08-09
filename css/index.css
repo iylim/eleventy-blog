@@ -5,8 +5,9 @@
   --gray: #C0C0C0;
   --darkgray: #333;
   --navy: #17050F;
-  --blue: #082840;
+  --blue: #2E67B2;
   --white: #fff;
+  --orange: #F8992F;
 }
 * {
   box-sizing: border-box;
@@ -17,7 +18,7 @@ body {
   margin: 0;
   font-family: sans-serif;
   color: var(--darkgray);
-  background-color: var(--white);
+  background-color: var(--lightgray);
 }
 p:last-child {
   margin-bottom: 0;
@@ -44,7 +45,7 @@ main :first-child {
   margin-top: 0;
 }
 header {
-  border-bottom: 1px dashed var(--lightgray);
+  border-bottom: 1px dashed var(--blue);
 }
 header:after {
   content: "";

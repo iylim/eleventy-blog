@@ -4,6 +4,8 @@ description: This is a post on week 7.
 date: 2019-08-09
 tags:
   - first
+  - node
+  - Flow
 layout: layouts/post.njk
 ---
 ## Project Work ~ Flow
@@ -13,7 +15,7 @@ This week during project work time we researched website design ideas. I set up 
 Continued working on Wes Bos Node course. 
 
 ## Client Visit
-Michael Santiago visited us. 
+Michael Santiago visited us. He provided helpful feedback on some workplace experiences from a C-suite perspective. 
 
 ![alt text](https://i.imgur.com/nQkdZBN.jpg "Michael Santiago")
 
